@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Uniplane Education</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+ body{max-width:880px;margin:40px auto;padding:0 16px;font:16px/1.6 system-ui,Segoe UI,Roboto,Helvetica,Arial;}
+ h1{margin-bottom:8px}
+ .course{margin:20px 0;padding:12px;border-left:4px solid #06c;background:#f9f9f9;}
+</style>
+</head>
+<body>
+<h1>Education</h1>
+<p>Lecture materials and notes on cybersecurity and network architecture.</p>
+
+<div class="course">
+  <h2><a href="SELinux_Training_v2_ch1.pptx">第１章</a></h2>
+</div>
+
+<div class="course">
+  <h2><a href="SELinux_Training_v2_ch2.pptx">第２章</a></h2>
+</div>
+
+<div class="course">
+  <h2><a href="SELinux_Training_v2_ch3.pptx">第３章</a></h2>
+</div>
+
+<div class="course">
+  <h2><a href="SELinux_Training_v2_ch4.pptx">第４章</a></h2>
+</div>
+
+<div class="course">
+  <h2><a href="SELinux_Training_v2_ch5.pptx">第５章</a></h2>
+</div>
+
+
+
+</body>
+</html>
